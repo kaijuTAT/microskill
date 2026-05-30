@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local course source material
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.ppt
+*.pptx
+*.pdf
+*.doc
+*.docx
+*.jpg
+*.jpeg
+*.png
+*.ass
+*.srt
+*.xml
+*.nfo
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

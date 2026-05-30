@@ -1,0 +1,4 @@
+interface:
+  display_name: "HEU Microcomputer Review"
+  short_description: "Review HEU microcomputer principles efficiently"
+  default_prompt: "Use $microcomputer-review-heu to review assembly programming, 8259, 8253, and 8255 from the HEU microcomputer course."
