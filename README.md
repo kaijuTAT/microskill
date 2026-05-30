@@ -13,6 +13,7 @@ It is optimized for efficient exam review, especially:
 ## What Is Included
 
 - `SKILL.md`: Codex skill entry point and workflow rules.
+- `STUDY_GUIDE.md`: learning path for users who only clone this repository.
 - `references/course-map.md`: 47-lesson course map.
 - `references/generated-course-index.md`: generated index for 47 subtitles and 20 local courseware files.
 - `references/focus-evidence.md`: subtitle evidence for assembly, 8259, 8253, and 8255.
@@ -21,6 +22,23 @@ It is optimized for efficient exam review, especially:
 - `references/interface-chips.md`: 8259, 8253, and 8255 review guide.
 - `references/question-templates.md`: practice and mock exam templates.
 - `scripts/build_course_index.py`: local index refresh script.
+
+## Can I Use It Without The Original Videos?
+
+Yes. The repository includes distilled references, question templates, and compact evidence indexes. A cloned copy can still be used for review and practice generation.
+
+Start with:
+
+```text
+STUDY_GUIDE.md
+SKILL.md
+references/exam-focus.md
+references/assembly-programming.md
+references/interface-chips.md
+references/question-templates.md
+```
+
+The original videos and courseware are not included. If you have your own legally obtained materials, use the refresh script to rebuild the generated indexes.
 
 ## Install For Codex
 
@@ -42,6 +60,7 @@ Open this repository and point your agent to:
 
 ```text
 SKILL.md
+STUDY_GUIDE.md
 references/
 ```
 
@@ -66,4 +85,3 @@ python -X utf8 .\scripts\build_course_index.py `
 ## Notes
 
 This repository intentionally does not include original videos, slides, PDFs, or DOCX courseware. It includes generated study indexes and review references only.
-
