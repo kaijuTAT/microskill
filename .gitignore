@@ -29,3 +29,6 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Local deployment secrets/config
+deploy.json
+materials-manifest.txt

@@ -15,6 +15,7 @@ It is optimized for efficient exam review, especially:
 - `SKILL.md`: Codex skill entry point and workflow rules.
 - `STUDY_GUIDE.md`: learning path for users who only clone this repository.
 - `MATERIALS.md`: guidance for keeping original course materials in private storage.
+- `DEPLOYMENT.md`: one-command deployment guide for the public skill repo and private materials.
 - `references/course-map.md`: 47-lesson course map.
 - `references/generated-course-index.md`: generated index for 47 subtitles and 20 local courseware files.
 - `references/focus-evidence.md`: subtitle evidence for assembly, 8259, 8253, and 8255.
@@ -42,6 +43,7 @@ references/question-templates.md
 The original videos and courseware are not included. If you have your own legally obtained materials, use the refresh script to rebuild the generated indexes.
 
 For private sharing of original files, see `MATERIALS.md`.
+For one-command deployment, see `DEPLOYMENT.md`.
 
 ## Install For Codex
 

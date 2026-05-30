@@ -1,0 +1,11 @@
+{
+  "skill_repo_dir": ".",
+  "course_root": "D:\\微机原理",
+  "github_remote": "https://github.com/kaijuTAT/microskill.git",
+  "git_branch": "master",
+  "rclone_remote": "mycloud:",
+  "rclone_materials_path": "microskill/materials",
+  "materials_manifest": "materials-manifest.txt",
+  "refresh_indexes": true,
+  "sync_materials": false
+}
